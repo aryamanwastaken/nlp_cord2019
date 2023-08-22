@@ -1,1 +1,3 @@
-# nlp_cord2019
+Natural Language Processing on CORD-2019 data
+
+updating soon...
